@@ -10,3 +10,5 @@
 * alias toJson='underscore print --color'
 * plugins=(git dirhistory sublime colorize copydir)
 
+### install:
+* brew install git-extras
