@@ -11,6 +11,7 @@
 ### .zshrc
 * alias toJson='jq .'
 * plugins=(git dirhistory sublime colorize copydir)
+* ZSH_THEME="gnzh"
 
 ### install:
 * brew install git-extras
