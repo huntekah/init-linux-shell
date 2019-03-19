@@ -15,3 +15,13 @@
 
 ### install:
 * brew install git-extras
+
+### iTerm2
+
+* https://elweb.co/making-iterm-2-work-with-normal-mac-osx-keyboard-shortcuts/
+* https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x
+
+Working: 
+⌥ Option + <- == "send escape sequence 'b'"
+⌥ Option + -> == "send escape sequence 'f'"
+⌥ Option + Delete == "Send Hex codes: 0x1B 0x08"
