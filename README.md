@@ -6,6 +6,8 @@
 
 ### brew
 * brew install jq
+* brew install autojump
+
 
 
 ### .zshrc
