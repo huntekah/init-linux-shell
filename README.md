@@ -7,6 +7,11 @@
 ### brew
 * brew install jq
 * brew install autojump
+* 
+```
+brew tap homebrew/cask
+brew cask install jumpcut
+```
 
 
 
