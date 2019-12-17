@@ -5,10 +5,11 @@
 * https://github.com/junegunn/fzf
 
 ### brew
-* brew install jq
-* brew install autojump
-* 
+
 ```
+brew install jq
+brew install autojump
+brew install git-extras
 brew tap homebrew/cask
 brew cask install jumpcut
 ```
@@ -19,9 +20,6 @@ brew cask install jumpcut
 * alias toJson='jq .'
 * plugins=(git dirhistory sublime colorize copydir)
 * ZSH_THEME="gnzh"
-
-### install:
-* brew install git-extras
 
 ### iTerm2
 
