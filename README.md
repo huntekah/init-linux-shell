@@ -12,6 +12,8 @@ brew install autojump
 brew install git-extras
 brew tap homebrew/cask
 brew cask install jumpcut
+brew install txn2/tap/kubefwd
+
 ```
 
 
