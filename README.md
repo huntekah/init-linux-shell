@@ -13,9 +13,11 @@ brew install git-extras
 brew tap homebrew/cask
 brew cask install jumpcut
 brew install txn2/tap/kubefwd
+brew install kubectx stern fzf kube-ps1 derailed/k9s/k9s
 
 ```
-
+Links:
+* https://github.com/ahmetb/kubectx
 
 
 ### .zshrc
