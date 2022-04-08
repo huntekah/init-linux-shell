@@ -3,6 +3,8 @@
 ### Things
 * https://github.com/robbyrussell/oh-my-zsh
 * https://github.com/junegunn/fzf
+* https://sw.kovidgoyal.net/kitty/overview/
+* https://github.com/romkatv/powerlevel10k
 
 ### brew
 
@@ -11,10 +13,14 @@ brew install jq
 brew install autojump
 brew install git-extras
 brew tap homebrew/cask
-brew cask install jumpcut
-brew install txn2/tap/kubefwd
-brew install kubectx stern fzf kube-ps1 derailed/k9s/k9s kustomize helm minikube hyperkit htop dockerd kube-ps1
-brew install nmap
+brew install --cask jumpcut
+# brew install txn2/tap/kubefwd
+# brew install kubectx stern fzf kube-ps1 derailed/k9s/k9s kustomize helm minikube hyperkit htop dockerd kube-ps1
+brew install fzf htop
+brew install --cask docker
+# brew install --cask 
+# brew install nmap
+brew install --cask signal
 ```
 Links:
 * https://github.com/ahmetb/kubectx
